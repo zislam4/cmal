@@ -1,5 +1,5 @@
 ## README for cmal
-- Draft website for Tufts Cognitive Memory and Aging Lab
+- Draft website for Tufts Cognitive Aging and Memory Lab
 
 * Changes:
   - Created working local copy and mirror on GitHub
